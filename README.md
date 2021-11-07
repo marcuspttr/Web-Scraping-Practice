@@ -16,5 +16,5 @@ Here is a sample picture of the index before the scrape-ing populates it:
 
 And an example of it after running the scrape:
 ![Top of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/top_example.PNG)
-![Middle of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/middle_setup.PNG)
-![Bottom of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/bottom_setup.PNG)
+![Middle of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/middle_example.PNG)
+![Bottom of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/bottom_example.PNG
