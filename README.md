@@ -11,5 +11,10 @@ This was a very hard assignment. I got a lot of work done at the beginning, but 
 ## Reflection and sample pictures:
 I'd say I'm pretty happy with how it came out.  I need to work on my understanding of bootstrap to create a more controlled & polished lay out and work with jinja in general.
 
-Here is a sample picture of the index before the scrapeing populates it:
+Here is a sample picture of the index before the scrape-ing populates it:
 ![Index Set-Up](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/index_setup.PNG)
+
+And an example of it after running the scrape:
+![Top of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/top_example.PNG)
+![Middle of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/middle_setup.PNG)
+![Bottom of the Page](https://github.com/marcuspttr/web-scraping-challenge/blob/main/Missions_to_Mars/assets/bottom_setup.PNG)
